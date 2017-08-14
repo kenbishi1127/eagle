@@ -748,32 +748,32 @@ akizuki: P-08789</description>
 <package name="CH004-2032LF">
 <smd name="+" x="-14.65" y="0" dx="4" dy="3" layer="1" rot="R90"/>
 <smd name="-" x="14.65" y="0" dx="4" dy="3" layer="1" rot="R90"/>
-<wire x1="-6" y1="8" x2="6" y2="8" width="0.127" layer="22"/>
-<wire x1="-6" y1="-8" x2="-4.75" y2="-8" width="0.127" layer="22"/>
-<wire x1="4.75" y1="-8" x2="6" y2="-8" width="0.127" layer="22"/>
-<wire x1="-10" y1="0" x2="-6" y2="8" width="0.127" layer="22" curve="-53.130102"/>
-<wire x1="10" y1="0" x2="6" y2="-8" width="0.127" layer="22" curve="-53.130102"/>
-<wire x1="-6" y1="-8" x2="-6" y2="8" width="0.127" layer="22" curve="-106.260205"/>
-<wire x1="6" y1="-8" x2="6" y2="8" width="0.127" layer="22" curve="106.260205"/>
-<wire x1="-14.25" y1="3.5" x2="-14.25" y2="2.5" width="0.127" layer="22"/>
-<wire x1="-14.25" y1="3.5" x2="-11.5" y2="3.5" width="0.127" layer="22"/>
-<wire x1="-14.25" y1="-3.5" x2="-14.25" y2="-2.5" width="0.127" layer="22"/>
-<wire x1="-14.25" y1="-3.5" x2="-11.5" y2="-3.5" width="0.127" layer="22"/>
-<wire x1="14.25" y1="3.5" x2="14.25" y2="2.5" width="0.127" layer="22"/>
-<wire x1="14.25" y1="3.5" x2="11.5" y2="3.5" width="0.127" layer="22"/>
-<wire x1="14.25" y1="-3.5" x2="14.25" y2="-2.5" width="0.127" layer="22"/>
-<wire x1="14.25" y1="-3.5" x2="11.5" y2="-3.5" width="0.127" layer="22"/>
-<wire x1="-6" y1="-8" x2="-9" y2="-8" width="0.127" layer="22"/>
-<wire x1="6" y1="-8" x2="9" y2="-8" width="0.127" layer="22"/>
-<wire x1="6" y1="8" x2="9" y2="8" width="0.127" layer="22"/>
-<wire x1="-6" y1="8" x2="-9" y2="8" width="0.127" layer="22"/>
-<wire x1="-9" y1="-8" x2="-9" y2="8" width="0.127" layer="22" curve="-83.267079"/>
-<wire x1="9" y1="8" x2="9" y2="-8" width="0.127" layer="22" curve="-83.267079"/>
-<wire x1="2.75" y1="-6" x2="4.75" y2="-8" width="0.127" layer="22"/>
-<wire x1="2.75" y1="-6" x2="-2.75" y2="-6" width="0.127" layer="22"/>
-<wire x1="-2.75" y1="-6" x2="-4.75" y2="-8" width="0.127" layer="22"/>
-<wire x1="-9.25" y1="-0.25" x2="-7.25" y2="-0.25" width="0.127" layer="22"/>
-<wire x1="-8.25" y1="0.75" x2="-8.25" y2="-1.25" width="0.127" layer="22"/>
+<wire x1="-6" y1="8" x2="6" y2="8" width="0.127" layer="21"/>
+<wire x1="-6" y1="-8" x2="-4.75" y2="-8" width="0.127" layer="21"/>
+<wire x1="4.75" y1="-8" x2="6" y2="-8" width="0.127" layer="21"/>
+<wire x1="-10" y1="0" x2="-6" y2="8" width="0.127" layer="21" curve="-53.130102"/>
+<wire x1="10" y1="0" x2="6" y2="-8" width="0.127" layer="21" curve="-53.130102"/>
+<wire x1="-6" y1="-8" x2="-6" y2="8" width="0.127" layer="21" curve="-106.260205"/>
+<wire x1="6" y1="-8" x2="6" y2="8" width="0.127" layer="21" curve="106.260205"/>
+<wire x1="-14.25" y1="3.5" x2="-14.25" y2="2.5" width="0.127" layer="21"/>
+<wire x1="-14.25" y1="3.5" x2="-11.5" y2="3.5" width="0.127" layer="21"/>
+<wire x1="-14.25" y1="-3.5" x2="-14.25" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="-14.25" y1="-3.5" x2="-11.5" y2="-3.5" width="0.127" layer="21"/>
+<wire x1="14.25" y1="3.5" x2="14.25" y2="2.5" width="0.127" layer="21"/>
+<wire x1="14.25" y1="3.5" x2="11.5" y2="3.5" width="0.127" layer="21"/>
+<wire x1="14.25" y1="-3.5" x2="14.25" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="14.25" y1="-3.5" x2="11.5" y2="-3.5" width="0.127" layer="21"/>
+<wire x1="-6" y1="-8" x2="-9" y2="-8" width="0.127" layer="21"/>
+<wire x1="6" y1="-8" x2="9" y2="-8" width="0.127" layer="21"/>
+<wire x1="6" y1="8" x2="9" y2="8" width="0.127" layer="21"/>
+<wire x1="-6" y1="8" x2="-9" y2="8" width="0.127" layer="21"/>
+<wire x1="-9" y1="-8" x2="-9" y2="8" width="0.127" layer="21" curve="-83.267079"/>
+<wire x1="9" y1="8" x2="9" y2="-8" width="0.127" layer="21" curve="-83.267079"/>
+<wire x1="2.75" y1="-6" x2="4.75" y2="-8" width="0.127" layer="21"/>
+<wire x1="2.75" y1="-6" x2="-2.75" y2="-6" width="0.127" layer="21"/>
+<wire x1="-2.75" y1="-6" x2="-4.75" y2="-8" width="0.127" layer="21"/>
+<wire x1="-9.25" y1="-0.25" x2="-7.25" y2="-0.25" width="0.127" layer="21"/>
+<wire x1="-8.25" y1="0.75" x2="-8.25" y2="-1.25" width="0.127" layer="21"/>
 <text x="-2" y="-7.75" size="0.8128" layer="25">&gt;NAME</text>
 <circle x="0" y="0" radius="10" width="0.127" layer="51"/>
 </package>
@@ -1190,11 +1190,11 @@ Triaxial Acceleraration Sensor&lt;br&gt;
 <smd name="11" x="1.905" y="2.875" dx="1" dy="0.5" layer="1" rot="R90"/>
 <smd name="10" x="3.175" y="2.875" dx="1" dy="0.5" layer="1" rot="R90"/>
 <smd name="9" x="4.445" y="2.875" dx="1" dy="0.5" layer="1" rot="R90"/>
-<wire x1="-5" y1="2" x2="5" y2="2" width="0.127" layer="22"/>
-<wire x1="5" y1="2" x2="5" y2="-2" width="0.127" layer="22"/>
-<wire x1="5" y1="-2" x2="-5" y2="-2" width="0.127" layer="22"/>
-<wire x1="-5" y1="-2" x2="-5" y2="2" width="0.127" layer="22"/>
-<circle x="-5.3" y="-2.8" radius="0.316225" width="0.127" layer="22"/>
+<wire x1="-5" y1="2" x2="5" y2="2" width="0.127" layer="21"/>
+<wire x1="5" y1="2" x2="5" y2="-2" width="0.127" layer="21"/>
+<wire x1="5" y1="-2" x2="-5" y2="-2" width="0.127" layer="21"/>
+<wire x1="-5" y1="-2" x2="-5" y2="2" width="0.127" layer="21"/>
+<circle x="-5.3" y="-2.8" radius="0.316225" width="0.127" layer="21"/>
 <text x="-5.5" y="-1.7" size="0.8128" layer="25" font="vector" rot="R90">&gt;NAME</text>
 </package>
 </packages>
